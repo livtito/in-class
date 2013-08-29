@@ -1,0 +1,14 @@
+/*
+Theme Name: Simplest Theme Ever
+Description: A bare bones theme for Learning WP Themeing
+Author: Tito Liv
+Author URI: http://livtito.com/portfolio
+Version: 0.1
+License: GPLv3 or higher
+
+Any other comments can go here
+*/
+
+body{
+	background-color:#ECE8E1;
+}
